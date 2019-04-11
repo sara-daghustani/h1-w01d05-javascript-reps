@@ -60,7 +60,7 @@ Result should be:
 ```
 
 ```js
-// your answer here
+console.log("Please" + " " + "squeeze"+ " " + "the"+" " +"cheese"); 
 ```
 
 ## 3 - Variable Assignments
@@ -75,14 +75,15 @@ var num2 = 10;
 Let's do this in parts:
 1. How can we make `num3` equal to the sum of `num1` and `num2`?
 ```js
-// your solution here
+var num3= num1+num2;
+console.log(num3);
 ```
 2. Use variables `num1`, `num2` and `num3` to fill in the `console.log()` to complete the sentence: 
 
 >The sum of 5 and 10 is 15
 
 ```js
-console.log(/* your answer here */)
+console.log(num3= num1+num2);
 ```
 
 ## 4 - Comparisons
@@ -100,14 +101,14 @@ h) 9 !== 8 + 1
 ### Your solution here:
 Write `true` or `false` based on the list above
 ```
-a) 
-b)  
-c)
-d) 
-e) 
-f) 
-g) 
-h) 
+a) False because its equal.
+b) True becuase they are in the same type and content.
+c) False because its equal.
+d) False because -4 is grater that -5 also they are not equal.
+e) False because 100 grater than -100.
+f) False because 20+5 = to 25 and 25 is grater than 5.
+g) True because (81 divided by 9 = 9) and 9 is equal to 9.
+h) False because 8+1 =9 and 9 is equal to 9. 
 ```
 
 ## 5 - Functions:
