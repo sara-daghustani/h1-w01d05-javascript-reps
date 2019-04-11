@@ -29,9 +29,9 @@ c = a;
 
 ### Your solution here:
 1.  What is `a`? 
+```
 a is (a=b then a is bongos)
 ```
-
 2.  What is `b`?
 ```
 b is (b=c then b is true)
