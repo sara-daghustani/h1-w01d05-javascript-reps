@@ -116,7 +116,10 @@ h) False because 8+1 =9 and 9 is equal to 9.
 * Write a function called `timeTwo` that takes in a parameter `num` and `return`'s that number multiplied by 2.
 
 ```js
-// your solution here
+function timeTwo (num){
+  return num*2
+}
+console.log(timeTwo(6));
 ```
 
 ## 6 - Loops:
