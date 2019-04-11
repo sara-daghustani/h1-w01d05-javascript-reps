@@ -28,17 +28,17 @@ c = a;
 ```
 
 ### Your solution here:
-1.  What is `a`?
+1.  What is `a`? 
+a is (a=b then a is bongos)
 ```
-a is (your answer here)
-```
+
 2.  What is `b`?
 ```
-b is (your answer here)
+b is (b=c then b is true)
 ```
 3.  What is `c`?
 ```
-c is (your answer here)
+c is (c=a which already changed it's mean c is bongos)
 ```
 
 Now run it and don't update your answers above.  Any surprises?  Don't worry about submitting wrong answers, it's all good :3
