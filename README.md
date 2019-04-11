@@ -136,18 +136,20 @@ console.log(timeTwo(6));
 
 ```js
 var favoriteMovies = ["The Exorcism of Emily Rose", "Brave", "jungle book", "Dangal", "The Fault in Our Stars"];
-console.log(favoriteMovies)```
+console.log(favoriteMovies)
+```
 
 *  How would you replace the 3rd favorite movie with the value `Toy Story 3`?
 
 ```js
 favoriteMovies[2]='Toy Story3';
-console.log(favoriteMovies);```
+console.log(favoriteMovies);
+```
 
 *   How would you remove the last movie from that array?
 ```js
-// youfavoriteMovies.pop()
-console.log(favoriteMovies)r answer here
+ youfavoriteMovies.pop()
+console.log(favoriteMovies)
 ```
 
 *   **Write a function** called `addMovie` that takes a parameter of `newMovie` that adds that movie to the end of the array.  (i.e. addMovie('Titanic')) adds Titanic to the end of the array.
