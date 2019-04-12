@@ -83,7 +83,7 @@ console.log(num3);
 >The sum of 5 and 10 is 15
 
 ```js
-console.log(num3= num1+num2);
+console.log("the" + " " + "sum"+ " " + "of"+" " +num1+" "+ "and"+" "+ num2+ " "+ "is"+ " " + num3);
 ```
 
 ## 4 - Comparisons
