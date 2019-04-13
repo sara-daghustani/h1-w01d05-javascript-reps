@@ -148,14 +148,18 @@ console.log(favoriteMovies);
 
 *   How would you remove the last movie from that array?
 ```js
- youfavoriteMovies.pop()
+favoriteMovies.pop()
 console.log(favoriteMovies)
 ```
 
 *   **Write a function** called `addMovie` that takes a parameter of `newMovie` that adds that movie to the end of the array.  (i.e. addMovie('Titanic')) adds Titanic to the end of the array.
 
 ```js
-// your answer here
+function addMovie(newMovie){
+return favoriteMovies.push(newMovie);
+}
+addMovie('Titanic');
+console.log(favoriteMovies);
 ```
 
 
